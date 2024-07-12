@@ -1,5 +1,5 @@
 Hello
-	This is Die-Bit-twos, an abbreviation for DB:
+	This is Die-Bit-twos, an abbreviation for DB:\n
  	I am a total noob, I hope to be not a noob:
 	See: Learn : Make
 Thank You 
