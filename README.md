@@ -1,4 +1,6 @@
 ## WELCOME TO DIEBEETUS
-  *Edging to this rn*
+  Background 0
+  Projects 0
+  Contributions 0
 
 
