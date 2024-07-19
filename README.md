@@ -1,6 +1,6 @@
 ## WELCOME TO DIEBEETUS
-  Background 0 \n
-  Projects 0 \n
-  Contributions 0 \n
+  Background 0 <br>
+  Projects 0 <br>
+  Contributions 0 <br>
 
 
