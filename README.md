@@ -1,6 +1,4 @@
-null
+## WELCOME TO DIEBEETUS
+  *Edging to this rn*
 
-<!---
-Die-Bit-twos/Die-Bit-twos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
